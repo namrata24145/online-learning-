@@ -46,35 +46,7 @@ The header has a background color of #4CAF50, which is a shade of green, with wh
 The padding of the header is 1rem to give space around the header text, and text-align: center; centers the text horizontally.
 
 
-Container:
+#OUTPUT
 
-The container class is applied to the main content area of the page. It adds 2rem of padding to the content, creating space between the content and the edges of the container.
-
-
-Video Container:
-
-The video-container section is styled with a bottom margin of 2rem to create space between the video and other elements.
-
-The video element inside the .video-container is styled to be responsive, with width: 100% (taking up the full width of the container) and max-width: 800px (so the video won’t exceed 800px in width).
-
-The video also has rounded corners (border-radius: 10px) and a subtle shadow (box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);) to give it a polished look.
-
-
-Quiz Section:
-
-The quiz section contains the quiz and its related elements like the question and the answers.
-
-It has a white background (background: white) and padding of 1rem, along with rounded corners and a shadow for a card-like appearance.
-
-The <h3> tag inside the .quiz section defines the title of the quiz, and there’s a button for submitting the quiz answers.
-
-The button has a background color of green (#4CAF50), which matches the header's color, and a hover effect is implemented to darken the green slightly (background-color: #45a049;) when the user hovers over it.
-
-
-Progress Bar:
-
-The progress section shows the user's learning progress, using a visual progress bar. This section is centered and contains a title (Your Progress).
-
-The progress-bar is a container with a light gray background (#e0e0e0) and rounded corners. It houses the inner progress bar.
-
-The progress-bar-inner represents the progress of the user. Its width is set to 50% as an example, but this can dynamically change depending on the user's progress in the course. The
+![Image](https://github.com/user-attachments/assets/a8164d87-e7a4-4830-9955-b80360ab804f)
+![Image](https://github.com/user-attachments/assets/5fdb8f8b-01a2-49d5-80ce-3461eba7b784)
